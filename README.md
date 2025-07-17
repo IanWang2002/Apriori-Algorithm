@@ -4,7 +4,7 @@ This project implements the Apriori algorithm to find frequent itemsets from a l
 
 ## Files
 
-- `homework4.py`: Main Python script that reads transactions and item prices, applies the Apriori algorithm, and returns results in the required dictionary format.
+- `Apriori.py`: Main Python script that reads transactions and item prices, applies the Apriori algorithm, and returns results in the required dictionary format.
 - `README.md`: This file.
 
 ## Functions
